@@ -1,0 +1,11 @@
+beautifulsoup4
+gensim
+imbalanced-learn
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+wordcloud
+xgboost
